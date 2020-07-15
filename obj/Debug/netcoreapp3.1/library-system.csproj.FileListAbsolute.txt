@@ -1,0 +1,13 @@
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.csprojAssemblyReference.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.AssemblyInfoInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.AssemblyInfo.cs
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.csproj.CoreCompileInputs.cache
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.exe
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.deps.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.runtimeconfig.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.runtimeconfig.dev.json
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\bin\Debug\netcoreapp3.1\library-system.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.dll
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.pdb
+C:\Users\Newforce.NEWFORCE-013\workspace\back-end\library-system\obj\Debug\netcoreapp3.1\library-system.genruntimeconfig.cache
